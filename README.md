@@ -13,3 +13,8 @@ Business Applications:
 1. In case a firm is unable to run A/B Tests due to budget constraints or other factors, we are able to deduce causal inference from historic data.
 2. 
 
+File Structure:
+The files are divided into two folders - Classwork and Homework.
+Classwork contains all files, assignments and projects worked on in-class.
+Homework contains all graded assignments.
+
